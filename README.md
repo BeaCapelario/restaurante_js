@@ -29,9 +29,3 @@ Este repositório contém o desenvolvimento de uma aplicação para um restauran
 
 ---
 
-### Como rodar o projeto
-Este é um projeto de front-end que roda diretamente no navegador.
-
-1. Faça o clone do repositório:
-   ```bash
-   git clone [https://github.com/BeaCapelario/restaurante_js.git](https://github.com/BeaCapelario/restaurante_js.git)
